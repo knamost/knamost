@@ -22,15 +22,15 @@ I had no one to teach me, so I am self-taught and have learned a lot, but I feel
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-<!--      </div>
- <href="https://github.com/YezerSTN"><img src="https://github-readme-stats.vercel.app/api?username=YezerSTN&hide_border=true&show_icons=true" alt="YezerSTN's github stats" align="right">
-  </div>  -->
+  </div>
+<!-- <href="https://github.com/YezerSTN"><img src="https://github-readme-stats.vercel.app/api?username=YezerSTN&hide_border=true&show_icons=true" alt="YezerSTN's github stats" align="right">  -->
+  </div>
 
  Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
 -   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing /--> Programming
 -   :pencil2: **__Learning__**; <!--Morse Code / C ++--> Python
 -   :seedling: **Goal**; Find an idea for a project.
--   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) -->/ Watch Anime / Read Manhwa|Manga / Listen to Music and sleeps a lot.
+-   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Watch Anime / Read Manhwa|Manga / Listen to Music /sleeping.
 
 ---
