@@ -11,7 +11,7 @@
 ``knowledge? ★ ᶻ 𝘇 𐰁``
 
 
-I had no one to teach me, so I was self-taught and learned a lot, but I feel I didn't learn enough. Now I'm trying to figure out something new to do, and even though I'm just starting on github, I have the experience to be able to publish a decent repository.
+I had no one to teach me, so I am self-taught and have learned a lot, but I feel I didn't learn enough. Now I'm trying to figure out something new to do.
 
 
 ``╰﹒bye bye, 🍓﹗``
@@ -29,8 +29,8 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
  Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
 -   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing /--> Programming
--   :pencil2: **__Learning__**; <!--Morse Code / C ++--> 
+-   :pencil2: **__Learning__**; <!--Morse Code / C ++--> Python
 -   :seedling: **Goal**; Find an idea for a project.
--   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) -->/ Watch Anime / Read Manhwa|Manga / Listen to Music.
+-   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) -->/ Watch Anime / Read Manhwa|Manga / Listen to Music and sleeps a lot.
 
 ---
