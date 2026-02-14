@@ -28,9 +28,9 @@ I feel I didn't learn enough. Now I'm trying to figure out something new to do.
 
  Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
--   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing /--> Programming
--   :pencil2: **__Learning__**; <!--Morse Code / C ++--> Python
+-   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing / exploiting /--> Programming
+-   :pencil2: **__Learning__**; <!--Morse Code / C++--> Python, Nodejs, backend
 -   :seedling: **Goal**; Find an idea for a project.
--   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Watch Anime / Read Manhwa|Manga / Listen to Music /sleeping.
+-   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Reading novels on my free time.  
 
 ---
