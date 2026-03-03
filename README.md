@@ -18,7 +18,7 @@ I feel I didn't learn enough. Now I'm trying to figure out something new to do.
 
 </div>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hi, I'm Suman Kathayat! 
+## <img height="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&width=535&lines=Let's+Code+and+build+together;Hey%2C+I'm+Suman+Kathayat)](https://git.io/typing-svg) 
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
