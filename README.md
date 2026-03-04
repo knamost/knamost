@@ -88,35 +88,12 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knamost&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@knamost)
 
-
-
 </div>
 
----
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=knamost&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knamost&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=knamost&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
-
 
 ### 📊 GitHub Stats
 <!--
