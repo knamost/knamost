@@ -85,6 +85,11 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
