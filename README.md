@@ -82,11 +82,78 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2012%20mins-blue?style=flat)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 47.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+🌆 Daytime                377 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌃 Evening                450 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
+🌙 Night                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Wednesday                327 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Thursday                 224 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday                   16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/knamost/knamost/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/03/2026 17:30:19 UTC
 <!--END_SECTION:waka-->
 
 ---
