@@ -117,6 +117,8 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 
 ---
 
+###
+
 <img src="https://raw.githubusercontent.com/knamost/knamost/output/snake.svg" alt="Snake animation" />
 
 ###
