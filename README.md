@@ -82,6 +82,36 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 
 ---
 
+### ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knamost&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@knamost)
+
+</div>
+
+> ⚙️ *To enable this: [create a WakaTime account](https://wakatime.com), install the plugin in your editor, then set up [waka-readme](https://github.com/athul/waka-readme) GitHub Action in this repo. Replace `knamost` with your WakaTime username.*
+
+---
+
+
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=knamost&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knamost&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=knamost&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+
 ### 📊 GitHub Stats
 <!--
 <div align="center">
