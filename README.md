@@ -60,7 +60,7 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 
 ---
 
-### 🔐 Cybersecurity — Tools & Topics
+### 🔐 Cybersecurity
 
 *Currently exploring and learning:*
 
