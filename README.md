@@ -34,3 +34,9 @@ I feel I didn't learn enough. Now I'm trying to figure out something new to do.
 -   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Reading novels on my free time.  
 
 ---
+
+**Social Media:**
+
+[<img src="icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>](https://github.com/knamost)
+[<img src="icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab"/>](https://gitlab.com/knamost)
+[<img src="icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/suman-kathayat)
