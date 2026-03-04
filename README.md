@@ -88,12 +88,13 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knamost&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@knamost)
 
+
+
 </div>
 
-> ⚙️ *To enable this: [create a WakaTime account](https://wakatime.com), install the plugin in your editor, then set up [waka-readme](https://github.com/athul/waka-readme) GitHub Action in this repo. Replace `knamost` with your WakaTime username.*
-
 ---
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <div align="center">
