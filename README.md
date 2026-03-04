@@ -31,12 +31,51 @@ I feel I didn't learn enough. Now I'm trying to figure out something new to do.
 -   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing / exploiting /--> Programming
 -   :pencil2: **__Learning__**; <!--Morse Code / C++--> Python, Nodejs, backend
 -   :seedling: **Goal**; Find an idea for a project.
--   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Reading novels on my free time.  
+-   :heart: **Hobbies**;<!-- sleeping, watching anime, reading manga --> Reading novels on my free time.  
 
----
+## **Social Media:**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="32" height="32"/>](https://github.com/knamost)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="32" height="32"/>](https://gitlab.com/knamost)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/>](https://www.linkedin.com/in/suman-kathayat)
+[<img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" width="32" height="32"/>](https://youtube.com/@akadeicide)
+[<img src="https://cdn.simpleicons.org/x/000000" alt="twitter" width="32" height="32"/>](https://x.com/somankathayat)
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="instagram" width="32" height="32"/>](https://www.instagram.com/somankathayat)
+[<img src="https://cdn.simpleicons.org/devpost/003E54" alt="devpost" width="32" height="32"/>](https://devpost.com/knamost)
+[<img src="https://cdn.simpleicons.org/devdotto/ffffff" alt="dev.to" width="32" height="32"/>](https://dev.to/knamost)
 
-**Social Media:**
 
-[<img src="icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>](https://github.com/knamost)
-[<img src="icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab"/>](https://gitlab.com/knamost)
-[<img src="icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/suman-kathayat)
+### Languages and Tools:
+
+
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="38" height="38"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="38"/>](https://git-scm.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="38"/>](https://www.w3schools.com/cpp/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="35" height="37"/>](https://www.cprogramming.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>](https://code.visualstudio.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35"/>](https://www.jetbrains.com/pycharm/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="35"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.simpleicons.org/github/ffffff" alt="github" width="35" height="35"/>](https://github.com/)
+
+**Learning:**
+
+[<img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/>](https://nodejs.org/)
+[<img src="https://cdn.simpleicons.org/gnubash/ffffff" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)
+[<img src="https://cdn.simpleicons.org/django/44B78B" alt="django" width="40" height="40"/>](https://www.djangoproject.com/)
+[<img src="https://cdn.simpleicons.org/express/ffffff" alt="express" width="40" height="40"/>](https://expressjs.com/)
+
+
+
+
+<!-- not working (deployment paused)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knamost&show_icons=true&locale=en&layout=compact" alt="knamost" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knamost&show_icons=true&locale=en" alt="knamost" /></p>
+-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=knamost&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+
+
+
+
