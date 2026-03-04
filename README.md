@@ -84,12 +84,6 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 
 ### ⏱️ WakaTime Coding Stats
 
-<div align="center">
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knamost&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@knamost)
-
-</div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
