@@ -17,7 +17,6 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/suman-kathayat) · [X](https://x.com/somankathayat)
 
 <!--
----
 
 ### 🚀 Featured Projects
 
@@ -27,9 +26,7 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 | 🌐 **[Project Name](https://github.com/knamost)** | Short description of what it does and why you built it | Node.js, Express |
 | 🐍 **[Project Name](https://github.com/knamost)** | Short description of what it does and why you built it | Python, Docker |
 
-> 💬 *Replace these with your actual projects — even small ones count!*
 -->
----
 
 ### 🛠️ Languages & Tools
 
