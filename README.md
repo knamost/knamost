@@ -82,40 +82,15 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 47.1 kB Used in GitHub's Storage 
- > 
-> 🏆 131 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-🌆 Daytime                377 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌃 Evening                450 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
-🌙 Night                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Wednesday                327 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
-Thursday                 224 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Sunday                   16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌆 Daytime                377 commits         █████████░░░░░░░░░░░░░░░░   36.50 % 
+🌃 Evening                452 commits         ███████████░░░░░░░░░░░░░░   43.76 % 
+🌙 Night                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 ```
 
 
@@ -148,12 +123,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/knamost/knamost/main/assets/bar_graph.png)
-
-
- Last Updated on 04/03/2026 17:30:19 UTC
 <!--END_SECTION:waka-->
 
 ---
