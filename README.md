@@ -100,15 +100,15 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 ### ⏱️ Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-🌆 Daytime                377 commits         █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌃 Evening                452 commits         ███████████░░░░░░░░░░░░░░   43.76 % 
-🌙 Night                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+🌞 Morning                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌆 Daytime                377 commits         █████████░░░░░░░░░░░░░░░░   36.39 % 
+🌃 Evening                454 commits         ███████████░░░░░░░░░░░░░░   43.82 % 
+🌙 Night                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 ```
 
 
@@ -118,16 +118,23 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     43 mins             ████████████████░░░░░░░░░   64.47 % 
+Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Python                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+sh                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 6 mins         ████████████████████████░   97.30 % 
+Zsh                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+knamost                  54 mins             ████████████████████░░░░░   80.44 % 
+01. Todo                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
