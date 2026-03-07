@@ -100,7 +100,7 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 ### ⏱️ Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
