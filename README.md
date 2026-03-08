@@ -100,15 +100,15 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 ### ⏱️ Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌆 Daytime                379 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌃 Evening                465 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌞 Morning                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                379 commits         █████████░░░░░░░░░░░░░░░░   35.62 % 
+🌃 Evening                466 commits         ███████████░░░░░░░░░░░░░░   43.80 % 
+🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 
@@ -118,24 +118,25 @@ I'm **Suman Kathayat** — still figuring things out, but enjoying every step of
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ████████████████░░░░░░░░░   64.89 % 
-YAML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-sh                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Assembly                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   8 hrs 36 mins       ███████████████████████░░   91.49 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+sh                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        ███████████████████████░░   92.80 % 
-Zsh                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+VS Code                  9 hrs 17 mins       █████████████████████████   98.69 % 
+Zsh                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🐱‍💻 Projects: 
-01. Todo                 1 hr 14 mins        ██████████████████░░░░░░░   72.25 % 
-knamost                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-reverse-engineering      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+simple-python-projects   7 hrs 3 mins        ███████████████████░░░░░░   74.95 % 
+01. Todo                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+knamost                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+reverse-engineering      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
+Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
