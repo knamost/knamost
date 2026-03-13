@@ -1,14 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Hey,%20I'm%20Suman!&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Always%20Learning.%20Always%20Exploring.&descSize=18&descAlign=50&descAlignY=58"/>
-</div>
-
-<br/>
 
 <img align="right" height="220" src="https://user-images.githubusercontent.com/109930585/233810163-5644d42c-2777-4658-9c9c-6d2c23698025.gif"/>
 
 ### 👋 About Me
 
-I'm **Suman Kathayat** — still figuring things out, but enjoying every step of it. I started C,python,C++ then with backend (Node.js + Express), got into machine learning along the way, and lately I've been really drawn toward **cybersecurity**. Networking, cryptography, reverse engineering, binary exploitation, CTFs — I'm not an expert in any of these yet, but I'm actively learning and getting better every day.
+I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then with backend (Node.js + Express), got into machine learning along the way, and lately I've been really drawn toward **cybersecurity**. Networking, cryptography, reverse engineering. I'm not an expert, but I'm actively learning and getting better every day.
 
 - 🔐 **Exploring:** Cybersecurity — networking, cryptography, reverse engineering, binary exploitation, CTFs
 - 📚 **Currently learning:** Node.js, Express.js, Machine Learning
