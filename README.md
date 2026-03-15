@@ -98,7 +98,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -106,25 +106,24 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   14 hrs 18 mins      ███████████████████████░░   93.13 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Python                   15 hrs 13 mins      ████████████████████████░   94.23 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 16 mins      █████████████████████████   99.40 % 
-Zsh                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VS Code                  16 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-simple-python-projects   9 hrs 32 mins       ████████████████░░░░░░░░░   62.13 % 
-learning-ml              3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-01. Todo                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-MachineLearning          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-start                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+simple-python-projects   9 hrs 32 mins       ███████████████░░░░░░░░░░   59.08 % 
+learning-ml              3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+learning-AI              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+01. Todo                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+MachineLearning          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Linux                    15 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
