@@ -12,7 +12,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 - 📖 **Outside of code:** Reading novels on my free time
 <!--
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/suman-kathayat) · [X](https://x.com/somankathayat)
--->---
+-->
 
 <!--
 
