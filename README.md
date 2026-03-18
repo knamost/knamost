@@ -5,12 +5,14 @@
 
 I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then with backend (Node.js + Express), got into machine learning along the way, and lately I've been really drawn toward **cybersecurity**. Networking, cryptography, reverse engineering. I'm not an expert, but I'm actively learning and getting better every day.
 
-- 🔐 **Exploring:** Cybersecurity — networking, cryptography, reverse engineering, binary exploitation, CTFs
+- 🔐 **Exploring:** Cybersecurity
 - 📚 **Currently learning:** ML, Deep Learning, PyTorch
 - ⏳ **On Hold:** Node.js, Express.js
 - 💻 **Background in:** Python, C, C++, Linux, Docker, Git
 - 📖 **Outside of code:** Reading novels on my free time
+<!--
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/suman-kathayat) · [X](https://x.com/somankathayat)
+-->---
 
 <!--
 
@@ -44,14 +46,15 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
 [![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
-
+<!--
 **Editor / IDE:**
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://jetbrains.com/pycharm)
+-->
 
----
+<!--
 
 ### 🔐 Cybersecurity
 
@@ -73,6 +76,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 ![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-2F4F4F?style=flat-square&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF_Challenges-228B22?style=flat-square&logoColor=white)
 
+-->
 ---
 
 ### 🌐 Connect with Me
