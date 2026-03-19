@@ -102,7 +102,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -110,24 +110,24 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   13 hrs 55 mins      ████████████████████████░   94.91 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-CSV                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   12 hrs 7 mins       ████████████████████████░   95.14 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learning-AI              8 hrs 3 mins        ██████████████░░░░░░░░░░░   54.94 % 
-learning-ml              3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-simple-python-projects   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-MachineLearning          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-start                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+learning-AI              8 hrs 26 mins       █████████████████░░░░░░░░   66.19 % 
+learning-ml              3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+MachineLearning          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+emotion-recognition      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Django                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    14 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
