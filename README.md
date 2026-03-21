@@ -5,9 +5,9 @@
 
 I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then with backend (Node.js + Express), got into machine learning along the way, and lately I've been really drawn toward **cybersecurity**. Networking, cryptography, reverse engineering. I'm not an expert, but I'm actively learning and getting better every day.
 
-- 🔐 **Exploring:** Cybersecurity
-- 📚 **Currently learning:** ML, Deep Learning, PyTorch
-- ⏳ **On Hold:** Node.js, Express.js
+- 🔐 **Interest:** Cybersecurity
+- 📚 **Currently Doing:** ML, Pytorch
+<!-- - ⏳ **On Hold:** Node.js, Express.js -->
 - 💻 **Background in:** Python, C, C++, Linux, Docker, Git
 - 📖 **Outside of code:** Reading novels on my free time
 <!--
