@@ -26,8 +26,8 @@ jobs:
           SHOW_UPDATED_DATE: False
           SHOW_LANGUAGE: True
           SHOW_OS: True
-          SHOW_EDITORS: True
-          SHOW_PROJECTS: True
+          SHOW_EDITORS: False
+          SHOW_PROJECTS: False
           SHOW_TIMEZONE: True
           SHOW_TOTAL_CODE_TIME: True
           SHOW_LINES_OF_CODE: False
