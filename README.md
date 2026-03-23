@@ -107,20 +107,20 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 20 mins      ████████████████████████░   96.71 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   8 hrs 3 mins        ██████████████████████░░░   89.99 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    10 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
