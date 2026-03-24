@@ -135,8 +135,10 @@ Linux                    7 hrs 54 mins       ███████████�
 -->
 
 <div align="center">
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=knamost&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knamost&langs_count=5&show_icons=true&hide_border=false&theme=dark&count_private=true&hide=powershell,dockerfile,slash&layout=compact)
 
 </div>
 
@@ -144,6 +146,8 @@ Linux                    7 hrs 54 mins       ███████████�
 
 ###
 
+<div align="center">  
 <img src="https://raw.githubusercontent.com/knamost/knamost/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
