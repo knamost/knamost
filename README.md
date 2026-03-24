@@ -7,14 +7,10 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 - 🔐 **Interest:** Cybersecurity
 - 📚 **Currently Doing:** ML, Pytorch
-<!-- - ⏳ **On Hold:** Node.js, Express.js -->
-- 💻 **Background in:** Python, C, C++, Linux, Docker, Git
+- 💻 **Background in:** Python, C, C++, Linux, Docker, Git, NodeJs
 - 📖 **Outside of code:** Reading novels on my free time
 <!--
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/suman-kathayat) · [X](https://x.com/somankathayat)
--->
-
-<!--
 
 ### 🚀 Featured Projects
 
@@ -41,7 +37,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://cprogramming.com)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://w3schools.com/cpp)
 -->
-**Currently learning:**
+**Currently Doing:**
 <!--
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
