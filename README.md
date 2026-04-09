@@ -109,14 +109,13 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 18 mins        ██████████████████████░░░   87.08 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python                   1 hr 18 mins        ████████████████████████░   94.12 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
