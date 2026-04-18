@@ -109,13 +109,13 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 29 mins        █████████████████████████   98.44 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   1 hr 17 mins        █████████████████████████   98.20 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 
