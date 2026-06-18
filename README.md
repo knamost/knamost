@@ -105,17 +105,6 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2022%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     59 mins             █████████████████░░░░░░░░   67.66 % 
-C++                      28 mins             ████████░░░░░░░░░░░░░░░░░   32.34 % 
-
-💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
