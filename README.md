@@ -103,20 +103,20 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 38 mins             ███████████████░░░░░░░░░░   59.92 % 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-PHP                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-INI                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Python                   50 mins             ███████████░░░░░░░░░░░░░░   44.28 % 
+Markdown                 38 mins             █████████░░░░░░░░░░░░░░░░   34.16 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+PHP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 
