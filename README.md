@@ -109,14 +109,13 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        █████████████████░░░░░░░░   66.75 % 
-Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-PHP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   2 hrs 7 mins        ███████████████████████░░   92.06 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    3 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
