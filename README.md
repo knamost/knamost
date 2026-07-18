@@ -103,21 +103,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%206%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   42 mins             ███████████████████████░░   92.75 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2043%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
