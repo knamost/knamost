@@ -103,47 +103,6 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2033%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%206%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               17 mins             ██████████░░░░░░░░░░░░░░░   38.54 % 
-Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-C#                       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-
-💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 39 mins (87.38%)
-
-✍️ 880 lines written by AI, 1 lines written by hand (99.89% AI-written)
-
-🔤 410,460 Input Tokens, 17,127 Output Tokens
-
-💵 $1.49 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Deepseek                 889 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 1,287 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.11% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
