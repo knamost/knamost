@@ -105,26 +105,26 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 mins             ██████████░░░░░░░░░░░░░░░   38.54 % 
-Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-C#                       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   36.49 % 
+Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+C#                       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (87.38%)
+⏱ AI Coding Time: 42 mins (88.06%)
 
 ✍️ 880 lines written by AI, 1 lines written by hand (99.89% AI-written)
 
@@ -132,15 +132,15 @@ Linux                    45 mins             ███████████�
 
 💵 $1.49 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
 Deepseek                 889 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 1,287 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,152 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 1.11% of changed lines were hand-edited
 ```
 
