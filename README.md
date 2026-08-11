@@ -111,11 +111,11 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   36.49 % 
-Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-C#                       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   36.38 % 
+Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+C#                       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 💻 Operating System: 
 Linux                    48 mins             █████████████████████████   100.00 % 
@@ -124,9 +124,9 @@ Linux                    48 mins             ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (88.06%)
+⏱ AI Coding Time: 42 mins (87.8%)
 
-✍️ 880 lines written by AI, 1 lines written by hand (99.89% AI-written)
+✍️ 880 lines written by AI, 25 lines written by hand (97.24% AI-written)
 
 🔤 410,460 Input Tokens, 17,127 Output Tokens
 
@@ -138,10 +138,10 @@ Deepseek                 889 lines           ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
+🤖 AI-Driven — 97.24% of written lines came from AI
 📄 Detailed Prompter — average 1,152 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.11% of changed lines were hand-edited
+🚀 High AI Trust — 3.68% of changed lines were hand-edited
 ```
 
 
