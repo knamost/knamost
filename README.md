@@ -111,8 +111,8 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   56 mins             ████████████████████████░   96.61 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Python                   56 mins             ████████████████████████░   96.60 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
 Linux                    58 mins             █████████████████████████   100.00 % 
