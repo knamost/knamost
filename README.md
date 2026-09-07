@@ -103,7 +103,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2044%20mins-blue?style=flat)
 
@@ -111,22 +111,22 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 41 mins       ████████████████████████░   94.29 % 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   9 hrs 15 mins       ████████████████████████░   94.45 % 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Linux                    9 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (6.45%)
+⏱ AI Coding Time: 35 mins (6.07%)
 
-✍️ 0 lines written by AI, 88,024 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 90,028 lines written by hand (0.0% AI-written)
 
 🔤 70,229 Input Tokens, 715 Output Tokens
 
