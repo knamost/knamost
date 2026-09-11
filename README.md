@@ -103,42 +103,42 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 55 mins       ███████████████████████░░   93.83 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   3 hrs 56 mins       ████████████████████████░   97.61 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (9.61%)
+⏱ AI Coding Time: 28 mins (11.92%)
 
-✍️ 0 lines written by AI, 60,908 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 42,044 lines written by hand (0.0% AI-written)
 
-🔤 70,229 Input Tokens, 715 Output Tokens
+🔤 37,073 Input Tokens, 126 Output Tokens
 
-💵 $0.22 Estimated AI Cost This Week
+💵 $0.11 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 590 characters per prompt
+📝 Concise Prompter — average 479 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
