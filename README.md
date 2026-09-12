@@ -111,22 +111,22 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 56 mins       ████████████████████████░   97.61 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   3 hrs 4 mins        ████████████████████████░   96.97 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    4 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (11.92%)
+⏱ AI Coding Time: 28 mins (15.16%)
 
-✍️ 0 lines written by AI, 42,044 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 34,800 lines written by hand (0.0% AI-written)
 
 🔤 37,073 Input Tokens, 126 Output Tokens
 
