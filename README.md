@@ -111,10 +111,10 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 17 mins       ███████████████████████░░   91.31 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Python                   4 hrs 17 mins       ███████████████████████░░   91.33 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Linux                    4 hrs 41 mins       █████████████████████████   100.00 % 
@@ -123,7 +123,7 @@ Linux                    4 hrs 41 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (22.5%)
+⏱ AI Coding Time: 1 hr 3 mins (22.51%)
 
 ✍️ 0 lines written by AI, 44,886 lines written by hand (0.0% AI-written)
 
