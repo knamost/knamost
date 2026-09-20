@@ -103,7 +103,7 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2048%20mins-blue?style=flat)
 
@@ -111,20 +111,20 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       ███████████████████████░░   90.85 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Python                   3 hrs 54 mins       ███████████████████████░░   90.95 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (22.35%)
+⏱ AI Coding Time: 57 mins (22.1%)
 
-✍️ 0 lines written by AI, 37,758 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 39,912 lines written by hand (0.0% AI-written)
 
 🔤 267,863 Input Tokens, 979 Output Tokens
 
