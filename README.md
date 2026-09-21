@@ -111,33 +111,32 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 54 mins       ███████████████████████░░   90.95 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Python                   48 mins             █████████████████████░░░░   85.08 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 
 💻 Operating System: 
-Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (22.1%)
+⏱ AI Coding Time: 18 mins (31.93%)
 
-✍️ 0 lines written by AI, 39,912 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,499 lines written by hand (0.0% AI-written)
 
-🔤 267,863 Input Tokens, 979 Output Tokens
+🔤 126,121 Input Tokens, 259 Output Tokens
 
-💵 $0.82 Estimated AI Cost This Week
+💵 $0.38 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 19 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 51 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
