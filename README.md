@@ -107,39 +107,6 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2048%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   48 mins             █████████████████████░░░░   85.08 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-
-💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 mins (31.93%)
-
-✍️ 0 lines written by AI, 2,499 lines written by hand (0.0% AI-written)
-
-🔤 126,121 Input Tokens, 259 Output Tokens
-
-💵 $0.38 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 8 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
