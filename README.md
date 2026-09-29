@@ -123,7 +123,7 @@ Linux                    5 hrs 40 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (4.5%)
+⏱ AI Coding Time: 15 mins (4.49%)
 
 ✍️ 0 lines written by AI, 182,812 lines written by hand (0.0% AI-written)
 
