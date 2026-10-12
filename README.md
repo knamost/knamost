@@ -111,28 +111,28 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 16 mins       ████████████████████████░   97.74 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   8 hrs 14 mins       ████████████████████████░   97.56 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (17.91%)
+⏱ AI Coding Time: 1 hr 8 mins (13.52%)
 
-✍️ 0 lines written by AI, 152,529 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 152,398 lines written by hand (0.0% AI-written)
 
 🔤 349,293 Input Tokens, 2,132 Output Tokens
 
 💵 $1.08 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
