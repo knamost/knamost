@@ -111,18 +111,18 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 
 ```text
 💬 Programming Languages: 
-Python                   49 mins             █████████████████████████   100.00 % 
+Python                   41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (37.57%)
+⏱ AI Coding Time: 18 mins (44.48%)
 
-✍️ 6 lines written by AI, 13,630 lines written by hand (0.04% AI-written)
+✍️ 6 lines written by AI, 8,246 lines written by hand (0.07% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -133,10 +133,10 @@ Linux                    49 mins             ███████████�
 Code                     9 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.04% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
 📝 Concise Prompter — average 146 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
 ```
 
 
