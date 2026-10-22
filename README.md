@@ -103,40 +103,41 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   41 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 23 mins       █████████████████████████   98.99 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Linux                    41 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (44.55%)
+⏱ AI Coding Time: 35 mins (24.41%)
 
-✍️ 6 lines written by AI, 8,246 lines written by hand (0.07% AI-written)
+✍️ 6 lines written by AI, 74,920 lines written by hand (0.01% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 Code                     9 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.01% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
 ```
 
 
