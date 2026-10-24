@@ -103,38 +103,38 @@ I'm **Suman Kathayat** - figuring out new stuffs. I started C,python,C++ then wi
 [![Coding Time](https://wakatime.com/badge/user/69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf.svg)](https://wakatime.com/@69abc3d7-3da8-4746-bcc3-7cbd8e7be6cf)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 42 mins        █████████████████████████   98.58 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Python                   2 hrs 46 mins       █████████████████████████   99.12 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (16.38%)
+⏱ AI Coding Time: 20 mins (12.23%)
 
-✍️ 0 lines written by AI, 66,674 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 122,894 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 21 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 518 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
